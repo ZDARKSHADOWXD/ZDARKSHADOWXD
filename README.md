@@ -1,5 +1,5 @@
 <h1 align="center"><img src="file/wave.gif" width="42px"> Hey, Myself Aayush Kumar. 😉</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AayushXKUMARZ-00&label=Profile%20views&color=0e75b6&style=flat-square" alt="Danish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zdarkshadowxd-00&label=Profile%20views&color=0e75b6&style=flat-square" alt="Danish" /> </p>
 <p align="center"><strong>Job :</strong> 👨‍🎓 Student.
 <br>I'm working on some hobby projects and learning new stuffs!</p>
 <br>
