@@ -5,9 +5,9 @@
 <br>
 <h2 align="center">📞 Contact Me</h2>
 <p align="center">
-    <a href="https://t.me/danish_00"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
-    <a href="https://danishkhan768006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-    <a href="https://danish@ultroid.tech"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="" srcset=""></a>
+    <a href="https://t.me/AayushXKUMARZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
+    <a href="https://zdarkxshadow@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+    <a href="https://Aayush@ultroid.tech"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="" srcset=""></a>
 </p>
 <br>
 <h2 align="center">⚡️ About Me</h2>
