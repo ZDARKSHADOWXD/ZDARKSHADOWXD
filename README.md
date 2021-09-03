@@ -29,6 +29,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" srcset=""></a>
     <a href="https://guides.github.com/features/mastering-markdown/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="" srcset=""></a>
     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
+ 
 </p>
 <br>
 <h2 align="center">🖥 Familiar OS</h2>
