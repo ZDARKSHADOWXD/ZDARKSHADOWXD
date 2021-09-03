@@ -49,6 +49,11 @@
     <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt=""></a>
     <a href="https://www.termux.com/"><img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt=""></a>
 
+| HOSTING  |  ICON  |
+|-------------|------------|
+| MAIN HEROKU  |<a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>|
+| Microsoft_Azure | <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> |
+
 </p>
 <br>
 <h2 align="center">📈 My Github Stats! </h2>
