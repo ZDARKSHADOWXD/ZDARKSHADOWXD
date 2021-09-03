@@ -10,14 +10,6 @@
     <a href="https://Aayush@ultroid.tech"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="" srcset=""></a>
 </p>
 <br>
-<h2 align="center">⚡️ About Me</h2>
-    <a href="https://zdarkshadowxd.github.io/2048/"><img align="right" height="150px" width="150px" src="file/2048-self-solver.gif" style="right:0px"></a>
-<ul>
-    <li>🔭 I’m currently working on Some Telegram Bots & Apis.
-    <li>🧐 Currently Learning <strong>JS</strong> & <strong>JAVA</strong>.
-    <li>👨‍💻 Mostly Projects Are Private 😅.
-    <li>💬 Generally Available on  <strong><a href="#-contact-me" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
-    <li>🤓 Ready To Help Others.
 </ul>
 <br>
 <h2 align="center">Languages / Frameworks/ Tools</h2>
