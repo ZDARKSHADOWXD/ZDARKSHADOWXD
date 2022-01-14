@@ -26,7 +26,7 @@ jobs:
         Invoke-WebRequest https://raw.githubusercontent.com/Jin-Dev69/Test_Project1/main/Files/NGROK-US.bat -OutFile NGROK-US.bat
         Invoke-WebRequest https://raw.githubusercontent.com/Jin-Dev69/Test_Project1/main/Files/NGROK-CHECK.bat -OutFile NGROK-CHECK.bat
         Invoke-WebRequest https://raw.githubusercontent.com/Jin-Dev69/Test_Project1/main/Files/loop.bat -OutFile loop.bat
-        Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://gitlab.com/Quiec/whatsasena/-/raw/master/windows.ps1')
+        
     - name: Make YML file for NGROK.
       run: start NGROK-US.bat
     - name: Enable RDP Access.
