@@ -68,3 +68,6 @@
     <a href="https://www.buymeacoffee.com/danish00" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
     <a href="https://www.paypal.me/danish1122"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
 </p>
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea268931-30be-4342-adc2-8e90703d6cb9/deploy-status)](https://app.netlify.com/sites/objective-euler-18af2e/deploys)
